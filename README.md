@@ -10,4 +10,4 @@ Welcome to SQLIChecker.Its a bash and python tool that will autometic find you S
 
 Commands> chmod +x sqlichecker.sh && ./sqlichecker.sh.x
 
-Note:The bash and python scripts are encrypted to protect it from NASA hogars!!
+Note: The bash and python scripts are encrypted to protect it from NASA hogars!!
