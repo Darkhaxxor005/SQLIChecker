@@ -8,5 +8,4 @@ Welcome to SQLIChecker.Its a bash and python tool that will autometic find you S
 #You need both python2.7 and python3 for using this tool.There is a requirements.txt file which is only for python3 try to run it in python3's pip.
 
 
-Commands> chmod +x sqlichecker.sh
-          bash sqlichecker.sh
+Commands> chmod +x sqlichecker.sh && bash sqlichecker.sh
